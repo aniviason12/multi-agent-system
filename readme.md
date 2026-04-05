@@ -5,3 +5,4 @@
 2019.08.Applied Reinforcement Learning with Python: With OpenAI Gym, Tensorflow, and Keras(4.Acknowledgments)
 2019.11.AI Crash Course(3.Packt Page)
 2020.03.Succeeding with AI(2.brief contents)
+2021.07.Generating a New Reality: From Autoencoders and Adversarial Networks to Deepfakes
