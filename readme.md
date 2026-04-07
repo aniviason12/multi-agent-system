@@ -6,4 +6,5 @@
 2019.11.AI Crash Course(3.Packt Page)
 2020.03.Succeeding with AI(2.brief contents)
 2021.07.Generating a New Reality: From Autoencoders and Adversarial Networks to Deepfakes
+2023.02.The AI Product Manager's Handbook
 2023.04.Generative Deep Learning, 2nd Edition
