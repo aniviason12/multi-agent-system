@@ -8,5 +8,6 @@
 2021.07.Generating a New Reality: From Autoencoders and Adversarial Networks to Deepfakes
 2023.02.The AI Product Manager's Handbook
 2023.04.Generative Deep Learning, 2nd Edition
+2023.08.Automate It with Zapier and Generative AI - Second Edition
 2023.11.Generative AI on AWS
 2024.05.Prompt Engineering for Generative AI
