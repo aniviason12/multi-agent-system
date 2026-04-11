@@ -11,3 +11,4 @@
 2023.08.Automate It with Zapier and Generative AI - Second Edition
 2023.11.Generative AI on AWS
 2024.05.Prompt Engineering for Generative AI
+2024.11.Prompt Engineering for LLMs
