@@ -10,6 +10,7 @@
 2023.04.Generative Deep Learning, 2nd Edition
 2023.08.Automate It with Zapier and Generative AI - Second Edition
 2023.11.Generative AI on AWS
+2023.11.What Are AI Agents?
 2023.12.The AI Revolution in Project Management: Elevating Productivity with Generative AI
 2024.05.Prompt Engineering for Generative AI
 2024.11.Prompt Engineering for LLMs
