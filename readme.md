@@ -14,3 +14,4 @@
 2023.12.The AI Revolution in Project Management: Elevating Productivity with Generative AI
 2024.05.Prompt Engineering for Generative AI
 2024.11.Prompt Engineering for LLMs
+2024
